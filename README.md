@@ -1,6 +1,6 @@
 # Interactive Code Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Interactive Code Editor project allows users to write HTML, CSS, and JavaScript code directly on the website interface.
 
 ## Available Scripts
 
